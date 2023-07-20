@@ -17,6 +17,11 @@ BNB Bruteforce Node.js script that uses the cluster module to create multiple wo
 4. The Script look for a FULL address from data.txt
 5. If a match is found, the script will save the wallet and its private key (seed) to a file named match.txt and exit.
 
+## For people without technical experience you can buy the compiled application for windows from here:
+[https://www.buymeacoffee.com/CorvusCodex/e/142988](https://www.buymeacoffee.com/CorvusCodex/e/147806?from_page=home)
+
+Keep in mind that a Windows app won’t speed up searching or guarantee success.
+
 ## Dependencies
 This script uses the following dependencies:
 
