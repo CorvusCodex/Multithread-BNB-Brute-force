@@ -2,6 +2,11 @@
 
 BNB Bruteforce Node.js script that uses the cluster module to create multiple worker processes to generate random BNB keypairs and check if the public address corresponding to the private key is in a Set of full addresses from data.txt. If a match is found, private key and address will be saved inside match.txt
 
+## For people without technical experience you can buy the compiled application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/168101
+
+Keep in mind that a Windows app won’t speed up searching or guarantee success.
+
 ## Installation
 
 1. Install Node.js on your system.
@@ -16,11 +21,6 @@ BNB Bruteforce Node.js script that uses the cluster module to create multiple wo
 3. The script will display the loop count and keys generated per minute for each worker process.
 4. The Script look for a FULL address from data.txt
 5. If a match is found, the script will save the wallet and its private key (seed) to a file named match.txt and exit.
-
-## For people without technical experience you can buy the compiled application for windows from here:
-[https://www.buymeacoffee.com/CorvusCodex/e/142988](https://www.buymeacoffee.com/CorvusCodex/e/147806?from_page=home)
-
-Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
 ## Dependencies
 This script uses the following dependencies:
