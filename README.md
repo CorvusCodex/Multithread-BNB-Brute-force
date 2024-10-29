@@ -3,7 +3,7 @@
 BNB Bruteforce Node.js script that uses the cluster module to create multiple worker processes to generate random BNB keypairs and check if the public address corresponding to the private key is in a Set of full addresses from data.txt. If a match is found, private key and address will be saved inside match.txt
 
 ## For people without technical experience you can buy the compiled application for windows from here:
-https://www.buymeacoffee.com/CorvusCodex/e/168101
+https://ko-fi.com/s/5b402b2757
 
 Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
