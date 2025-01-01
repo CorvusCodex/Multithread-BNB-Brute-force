@@ -34,17 +34,14 @@ This script uses the following dependencies:
 ## Support my work for month or year so i can continue to work on my projects:
 https://www.buymeacoffee.com/corvuscodex/membership
 
-## Buy me some equipment:
-https://www.buymeacoffee.com/corvuscodex/wishlist
-
 ## Disclaimer
 
 The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY. The chances of finding a match are extremely low and it is not recommended to use this script for any illegal or unethical activities.
 
 
-MIT License
+## MIT License
 
-Copyright (c) 2023 CorvusCodex
+Copyright (c) 2025 CorvusCodex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
